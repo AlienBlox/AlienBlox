@@ -1,0 +1,3 @@
+Version V1.36.06 has been released!
+ * Added the Immortal Snail and the Immortal Snail Utility
+ * Testing something
