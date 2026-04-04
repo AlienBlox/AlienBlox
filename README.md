@@ -1,4 +1,5 @@
-## Hi there 👋
+<!--## Hi there 👋
+--!>
 
 <!--
 **AlienBlox/AlienBlox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+The official repo for AlienBlox!
+
+Games I play:
+ * I play tModLoader
+ * I play Roblox
+
+Stats: 2 commits on the tModLoader repo.
