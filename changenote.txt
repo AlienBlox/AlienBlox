@@ -1,2 +1,2 @@
-Version V1.36.06 has been released!
- * Added the Immortal Snail and the Immortal Snail Utility
+Version V1.36.07 has been released!
+ * Added water droplets for the biomes in the mod
