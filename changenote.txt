@@ -1,2 +1,3 @@
-Version V1.36.07 has been released!
- * Added water droplets for the biomes in the mod
+Version V1.36.08 has been released!
+ * Added the Permian biome (testing)
+ * Will improve existing biomes in the next update.
