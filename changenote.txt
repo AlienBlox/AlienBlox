@@ -1,3 +1,6 @@
-Version V1.36.08 has been released!
- * Added the Permian biome (testing)
- * Will improve existing biomes in the next update.
+Version V1.36.09 has been released!
+ * Added Plywood.
+ * Added the Glue Bucket
+ * Added Chitin
+ * Added Collagen
+ * Added Cellulose
