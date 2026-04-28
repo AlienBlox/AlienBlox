@@ -1,6 +1,3 @@
-Version V1.36.09 has been released!
- * Added Plywood.
- * Added the Glue Bucket
- * Added Chitin
- * Added Collagen
- * Added Cellulose
+Version V1.36.11 has been released!
+ * Fixed walls having improper research unlock counts in Journey mode.
+ * Added the Plywood Wall
