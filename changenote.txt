@@ -1,3 +1,2 @@
-Version V1.36.11 has been released!
- * Fixed walls having improper research unlock counts in Journey mode.
- * Added the Plywood Wall
+Version V1.36.12 has been released!
+ * Added some APIs for bullet hell tracers, still WIP
