@@ -1,2 +1,2 @@
-Version V1.36.12 has been released!
- * Added some APIs for bullet hell tracers, still WIP
+Version V1.36.14 has been released!
+ * Fixed the Bullet Hell Tracer not syncing properly, which caused it to not work in multiplayer.
