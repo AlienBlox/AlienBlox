@@ -1,2 +1,3 @@
-Version V1.36.14 has been released!
- * Fixed the Bullet Hell Tracer not syncing properly, which caused it to not work in multiplayer.
+Version V1.36.15 has been released!
+ * Improved bullet hell mechanics overall
+ * Added the lamprey
