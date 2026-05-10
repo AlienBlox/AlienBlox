@@ -1,3 +1,2 @@
-Version V1.36.15 has been released!
- * Improved bullet hell mechanics overall
- * Added the lamprey
+Version V1.36.16 has been released!
+ * Improved bullet hell mechanics overall again.
