@@ -1,2 +1,2 @@
-Version V1.36.16 has been released!
- * Improved bullet hell mechanics overall again.
+Version V1.36.17 has been released!
+ * Fixed the Bullet Hell helper projectile not working properly.
